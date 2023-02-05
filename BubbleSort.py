@@ -10,6 +10,4 @@ def countSwaps(a):
                countSwap+=1
     sys.stdout.write("Array is sorted in "+str(countSwap)+" swaps. \n")
     sys.stdout.write("First Element: "+ str(a[0])+"\n")
-    sys.stdout.write("Last Element: "+str(a[len(a)-1])+"\n")
-
-sfsfsd
+    sys.stdout.write("Last Element: "+str(a[len(a)-1])+"\n
